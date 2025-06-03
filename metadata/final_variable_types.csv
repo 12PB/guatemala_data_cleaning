@@ -1,0 +1,13 @@
+﻿variable_name,data_type_x,data_type_y,module_name,module_description,variable_description,geographic_indicator
+hhid,numeric,numeric,HOGARES.DTA,Expansion factor per household,household id,no
+num_cattle,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production","Number of cows, bulls, and calves",no
+num_goats,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of goats,no
+num_sheep,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of sheep,no
+num_pigs,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of pigs,no
+num_rabbits,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of rabbits,no
+num_chickens,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of chickens and hens,no
+num_turkeys,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production","Number of turkeys or local ""chompipes""",no
+num_ducks,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of ducks,no
+num_horses_donkeys_mules,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production","Number of horses, donkeys, or mules",no
+num_beehives,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of beehives,no
+num_other_animals,numeric,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of other unspecified animals,no

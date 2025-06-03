@@ -1,0 +1,191 @@
+﻿variable_name,data_type,module_name,module_description,variable_description,geographic_indicator
+region,categorical,HOGARES.DTA,Module description,administrative political region,True
+area,categorical,HOGARES.DTA,Expansion factor per household,urban or rural area,False
+hhid,numeric,HOGARES.DTA,Expansion factor per household,household id,False
+hh_size,numeric,HOGARES.DTA,Expansion factor per household,# of people in the household (actual #),False
+hh_wgt,numeric,HOGARES.DTA,Expansion factor per household,survey weight,False
+num_gas_stove,numeric,ECV17E14.DTA,Home Equipment.,Number of gas or electric stoves,False
+num_microwave,numeric,ECV17E14.DTA,Home Equipment.,Number of microwave ovens,False
+num_oven,numeric,ECV17E14.DTA,Home Equipment.,Number of conventional ovens,False
+num_refrigerator,numeric,ECV17E14.DTA,Home Equipment.,Number of refrigerators,False
+num_coffee_maker,numeric,ECV17E14.DTA,Home Equipment.,Number of electric coffee makers,False
+num_blender,numeric,ECV17E14.DTA,Home Equipment.,Number of blenders,False
+num_juicer,numeric,ECV17E14.DTA,Home Equipment.,Number of juice extractors,False
+num_nixtamal_mill,numeric,ECV17E14.DTA,Home Equipment.,Number of nixtamal or similar mills,False
+num_computer,numeric,ECV17E14.DTA,Home Equipment.,Number of personal computers,False
+num_printer,numeric,ECV17E14.DTA,Home Equipment.,Number of printers,False
+num_camera,numeric,ECV17E14.DTA,Home Equipment.,Number of cameras,False
+num_radio,numeric,ECV17E14.DTA,Home Equipment.,Number of transistor radios,False
+num_cd_player,numeric,ECV17E14.DTA,Home Equipment.,Number of CD players,False
+num_tape_recorder,numeric,ECV17E14.DTA,Home Equipment.,Number of tape or radio recorders,False
+num_typewriter,numeric,ECV17E14.DTA,Home Equipment.,Number of typewriters,False
+num_tv,numeric,ECV17E14.DTA,Home Equipment.,Number of televisions,False
+num_video_camera,numeric,ECV17E14.DTA,Home Equipment.,Number of video cameras,False
+num_cassette_camera,numeric,ECV17E14.DTA,Home Equipment.,Number of cassette video cameras,False
+num_other_entertainment,numeric,ECV17E14.DTA,Home Equipment.,Number of other entertainment devices,False
+num_beeper,numeric,ECV17E14.DTA,Home Equipment.,Number of beepers,False
+num_phone,numeric,ECV17E14.DTA,Home Equipment.,Number of telephones,False
+num_electric_iron,numeric,ECV17E14.DTA,Home Equipment.,Number of electric irons,False
+num_charcoal_iron,numeric,ECV17E14.DTA,Home Equipment.,Number of charcoal irons,False
+num_washer,numeric,ECV17E14.DTA,Home Equipment.,Number of washing machines,False
+num_dryer,numeric,ECV17E14.DTA,Home Equipment.,Number of dryers,False
+num_fan,numeric,ECV17E14.DTA,Home Equipment.,Number of electric fans,False
+num_vacuum,numeric,ECV17E14.DTA,Home Equipment.,Number of vacuum cleaners,False
+num_sewing_machine,numeric,ECV17E14.DTA,Home Equipment.,Number of sewing machines,False
+num_other_household_item,numeric,ECV17E14.DTA,Home Equipment.,Number of other household items,False
+num_car,numeric,ECV17E14.DTA,Home Equipment.,Number of cars,False
+num_pickup,numeric,ECV17E14.DTA,Home Equipment.,Number of pickup trucks,False
+num_small_truck,numeric,ECV17E14.DTA,Home Equipment.,Number of small trucks,False
+num_motorcycle,numeric,ECV17E14.DTA,Home Equipment.,Number of motorcycles or mopeds,False
+num_bicycle,numeric,ECV17E14.DTA,Home Equipment.,Number of bicycles,False
+num_ox_cart,numeric,ECV17E14.DTA,Home Equipment.,Number of ox carts,False
+num_truck,numeric,ECV17E14.DTA,Home Equipment.,Number of trucks,False
+num_boat,numeric,ECV17E14.DTA,Home Equipment.,Number of boats or canoes,False
+num_other_vehicle,numeric,ECV17E14.DTA,Home Equipment.,Number of other types of vehicles,False
+p01a01,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,type of housing,False
+p01a02,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,wall material,False
+p01a03,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,roof material,False
+p01a04,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,floor material,False
+p01a05a,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,water connection,False
+p01a05b,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,drain connection,False
+p01a05c,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,electricity connection,False
+p01a05d,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,phone connection,False
+p01a05e,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,water meter,False
+p01a05f,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,electricity meter,False
+p01a06,numeric,ECV01H01.DTA,Housing Characteristics and Housing Situation,total rooms,False
+p01a07,numeric,ECV01H01.DTA,Housing Characteristics and Housing Situation,home rooms,False
+p01a08,numeric,ECV01H01.DTA,Housing Characteristics and Housing Situation,No. of bedrooms,False
+p01a09,numeric,ECV01H01.DTA,Housing Characteristics and Housing Situation,business rooms,False
+p01a10,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,cooking place,False
+p01a11,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,exclusive kitchen,False
+p01a12,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,where do you get water,False
+p01a13,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,water exclusivity,False
+p01a14,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,water service,False
+p01a23,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,use cistern water,False
+p01a25,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,water treatment,False
+p01a26,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,Type of toilet facility,False
+p01a34,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,Uses electricity,False
+p01a35,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,Source/provider of electricity,False
+p01a39,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,use of firewood,False
+p01a44,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,Firewood is the only fuel used,False
+p01a45,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,Kitchen has chimney,False
+p01c01,categorical,ECV01H01.DTA,Housing Characteristics and Housing Situation,Housing tenure / Housing ownership status - only need binary for owning house,False
+num_cattle,numeric,ECV31A16.DTA,"Livestock Activity, existence and production","Number of cows, bulls, and calves",False
+num_goats,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of goats,False
+num_sheep,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of sheep,False
+num_pigs,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of pigs,False
+num_rabbits,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of rabbits,False
+num_chickens,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of chickens and hens,False
+num_turkeys,numeric,ECV31A16.DTA,"Livestock Activity, existence and production","Number of turkeys or local ""chompipes""",False
+num_ducks,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of ducks,False
+num_horses_donkeys_mules,numeric,ECV31A16.DTA,"Livestock Activity, existence and production","Number of horses, donkeys, or mules",False
+num_beehives,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of beehives,False
+num_other_animals,numeric,ECV31A16.DTA,"Livestock Activity, existence and production",Number of other unspecified animals,False
+depto,categorical,CONSUMO5.DTA,Total consumption per household,department,True
+mupio,numeric,CONSUMO5.DTA,Total consumption per household,municipality,True
+sector,numeric,CONSUMO5.DTA,Total consumption per household,sector number ,True
+upm2,numeric,CONSUMO5.DTA,Total consumption per household,Primary Sampling Unit (PSU) without segment,False
+consumption_per_capita_per_day,numeric,CONSUMO5.DTA,Total consumption per household,Per-capita per-day household consumption adjusted to units of 2017 USD ,False
+p15b01,categorical,ECV18N15.DTA,Enterprise Control,Had a business in the last 12 months,False
+p15b02,numeric,ECV18N15.DTA,Enterprise Control,Number of businesses,False
+land_area_sqm,numeric,ECV21A16.DTA,Own farms or land plots,amount of land area owned,False
+distance_preschool,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  preschool,False
+distance_primary_school,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  primary school,False
+distance_secondary_school,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  secondary school,False
+distance_health_center,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  health center,False
+distance_public_hospital,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  public hospital,False
+distance_private_hospital,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  private hospital,False
+distance_private_clinic,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  private clinic,False
+distance_natural_healer,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  natural healer,False
+distance_traditional_midwife,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  traditional midwife,False
+distance_pharmacy,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  pharmacy,False
+distance_public_phone,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  public or communal telephone,False
+distance_mail_service,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  mail service,False
+distance_bus_stop,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  bus stop,False
+distance_bank,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  bank,False
+distance_cooperative,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  cooperative,False
+distance_market,numeric,ECOM03.DTA,captures the presence and community use of transport-related infrastructure within each sector,Distance to the  market,False
+batteries_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of batteries for cooking purposes,False
+batteries_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of batteries for home-based business activities,False
+batteries_household,categorical,ECV02H01.DTA,Energy Sources.,Use of batteries for general household use,False
+batteries_other,categorical,ECV02H01.DTA,Energy Sources.,Use of batteries for other unspecified purposes,False
+candles_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of candles for cooking purposes,False
+candles_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of candles for home-based business activities,False
+candles_household,categorical,ECV02H01.DTA,Energy Sources.,Use of candles for general household use,False
+candles_other,categorical,ECV02H01.DTA,Energy Sources.,Use of candles for other unspecified purposes,False
+charcoal_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of charcoal for cooking purposes,False
+charcoal_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of charcoal for home-based business activities,False
+charcoal_household,categorical,ECV02H01.DTA,Energy Sources.,Use of charcoal for general household use,False
+charcoal_other,categorical,ECV02H01.DTA,Energy Sources.,Use of charcoal for other unspecified purposes,False
+electricity_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of electricity for cooking purposes,False
+electricity_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of electricity for home-based business activities,False
+electricity_household,categorical,ECV02H01.DTA,Energy Sources.,Use of electricity for general household use,False
+electricity_other,categorical,ECV02H01.DTA,Energy Sources.,Use of electricity for other unspecified purposes,False
+kerosene_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of kerosene for cooking purposes,False
+kerosene_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of kerosene for home-based business activities,False
+kerosene_household,categorical,ECV02H01.DTA,Energy Sources.,Use of kerosene for general household use,False
+kerosene_other,categorical,ECV02H01.DTA,Energy Sources.,Use of kerosene for other unspecified purposes,False
+other_energy_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of other energy sources for cooking purposes,False
+other_energy_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of other energy sources for home-based business activities,False
+other_energy_household,categorical,ECV02H01.DTA,Energy Sources.,Use of other energy sources for general household use,False
+other_energy_other,categorical,ECV02H01.DTA,Energy Sources.,Use of other energy sources for other unspecified purposes,False
+propane_gas_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of propane gas for cooking purposes,False
+propane_gas_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of propane gas for home-based business activities,False
+propane_gas_household,categorical,ECV02H01.DTA,Energy Sources.,Use of propane gas for general household use,False
+propane_gas_other,categorical,ECV02H01.DTA,Energy Sources.,Use of propane gas for other unspecified purposes,False
+num_animal_drawn_equipment,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of animal-drawn tools and implements,False
+num_tractor,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of tractors owned,False
+num_tractor_equipment,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of tractor-specific attachments and implements,False
+num_harvester,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of harvesters owned,False
+num_seeder_cultivator,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of seeders or cultivators owned,False
+num_water_pump,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of water pumps used for irrigation or domestic purposes,False
+num_vehicle,numeric,ECV28A16.DTA,Agricultural equipment and facilities,"Number of general-purpose vehicles (e.g., trucks, jeeps)",False
+num_work_animals,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of animals used for agricultural labor,False
+num_fumigation_pump,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of fumigation pumps (sprayers) owned,False
+num_generator,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of electric generators owned,False
+num_irrigation_equipment,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of irrigation systems or components,False
+num_small_tools,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of small agricultural tools and hand equipment,False
+num_milking_machine,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of milking machines owned,False
+num_forage_chopper,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of forage choppers used for processing animal feed,False
+num_sheller,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of grain shellers owned,False
+num_carts,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of carts used for transportation,False
+num_other_equipment,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of other unspecified agricultural equipment,False
+num_shed,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of sheds or storage shelters,False
+num_mills,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of mills for grinding grain or feed,False
+num_tanks,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of water or storage tanks,False
+num_wells,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of wells on the property,False
+num_baths,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of animal bathing facilities,False
+num_silos,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of grain silos or storage containers,False
+num_dryers,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of crop dryers owned,False
+num_watering_troughs,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of animal watering troughs,False
+num_other_facility,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of other unspecified agricultural facilities,False
+idenho_1,categorical,AUTOIDH.DTA,This data file contains individual data related self identification on ethnicity.,self-identity,False
+getnicoh,categorical,AUTOIDH.DTA,This data file contains individual data related self identification on ethnicity.,indigenous group or not,False
+p10d01,categorical,ECV11P10.DTA,Economic Activities.,Worked in the last 12 months - Yes/No,False
+p10d03,categorical,ECV11P10.DTA,Economic Activities.,Worked in the last 12 months - Occupation code,False
+p10d04,categorical,ECV11P10.DTA,Economic Activities.,Worked in the last 12 months - Industry/sector of work,False
+p10d06,categorical,ECV11P10.DTA,Economic Activities.,Worked in the last 12 months - Employment category,False
+p10e05a,categorical,ECV11P10.DTA,Economic Activities.,Government assistance - Yes/No,False
+num_male,numeric,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Number of male members in the household,False
+num_female,numeric,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Number of female members in the household,False
+num_children,numeric,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Number of children (age ≤ 17) in the household,False
+num_adults,numeric,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Number of adults (age ≥ 18) in the household,False
+num_elderly,numeric,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Number of elderly members (age ≥ 60) in the household,False
+hh_head_gender,categorical,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Gender of the household head,False
+hh_head_age,numeric,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Age of the household head,False
+hh_head_marital_status,categorical,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Marital status of the household head,False
+hh_head_ethnicity,categorical,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Ethnic group of the household head,False
+hh_head_literacy,categorical,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,"Literacy status of the household head (e.g., reads and writes)",False
+hh_head_education_level,categorical,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Highest completed education level of the household head,False
+max_education_level,categorical,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Highest completed education level among all household members,False
+female_max_education_level,categorical,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Highest completed education level among adult female members (age ≥ 18),False
+num_children_enrolled,numeric,ECV09P05.DTA,Demographic Characteristics Education Health and Migration,Number of school-age children (age ≤ 17) currently enrolled in school,False
+has_paved_or_gravel_road,categorical,ECOM02.DTA,"road availability and common community uses, like fetching water or going to school.",Whether the community has a paved or gravel road accessible,False
+has_dirt_road,categorical,ECOM02.DTA,"road availability and common community uses, like fetching water or going to school.",Whether the community has a dirt road accessible,False
+has_footpath_no_gravel,categorical,ECOM02.DTA,"road availability and common community uses, like fetching water or going to school.",Whether the community has a footpath without gravel,False
+has_footpath,categorical,ECOM02.DTA,"road availability and common community uses, like fetching water or going to school.",Whether the community has a footpath (any kind) accessible,False
+has_sea_lake_river,categorical,ECOM02.DTA,"road availability and common community uses, like fetching water or going to school.","Whether the community has access to transportation via sea, lake, or river",False
+has_train,categorical,ECOM02.DTA,"road availability and common community uses, like fetching water or going to school.",Whether the community has access to railway/train infrastructure,False
+has_airplane,categorical,ECOM02.DTA,"road availability and common community uses, like fetching water or going to school.",Whether the community has access to air transportation,False
+has_other,categorical,ECOM02.DTA,"road availability and common community uses, like fetching water or going to school.",Whether the community has access to any other type of transportation,False
+headcount_adjusted_hh_wgt,numeric,Added var,Added var,product of hh_wgt and thogar (hh_size),False

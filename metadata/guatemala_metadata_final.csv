@@ -108,31 +108,24 @@ distance_market,numeric,ECOM03.DTA,captures the presence and community use of tr
 batteries_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of batteries for cooking purposes,False
 batteries_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of batteries for home-based business activities,False
 batteries_household,categorical,ECV02H01.DTA,Energy Sources.,Use of batteries for general household use,False
-batteries_other,categorical,ECV02H01.DTA,Energy Sources.,Use of batteries for other unspecified purposes,False
 candles_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of candles for cooking purposes,False
 candles_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of candles for home-based business activities,False
 candles_household,categorical,ECV02H01.DTA,Energy Sources.,Use of candles for general household use,False
-candles_other,categorical,ECV02H01.DTA,Energy Sources.,Use of candles for other unspecified purposes,False
 charcoal_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of charcoal for cooking purposes,False
 charcoal_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of charcoal for home-based business activities,False
 charcoal_household,categorical,ECV02H01.DTA,Energy Sources.,Use of charcoal for general household use,False
-charcoal_other,categorical,ECV02H01.DTA,Energy Sources.,Use of charcoal for other unspecified purposes,False
 electricity_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of electricity for cooking purposes,False
 electricity_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of electricity for home-based business activities,False
 electricity_household,categorical,ECV02H01.DTA,Energy Sources.,Use of electricity for general household use,False
-electricity_other,categorical,ECV02H01.DTA,Energy Sources.,Use of electricity for other unspecified purposes,False
 kerosene_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of kerosene for cooking purposes,False
 kerosene_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of kerosene for home-based business activities,False
 kerosene_household,categorical,ECV02H01.DTA,Energy Sources.,Use of kerosene for general household use,False
-kerosene_other,categorical,ECV02H01.DTA,Energy Sources.,Use of kerosene for other unspecified purposes,False
 other_energy_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of other energy sources for cooking purposes,False
 other_energy_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of other energy sources for home-based business activities,False
 other_energy_household,categorical,ECV02H01.DTA,Energy Sources.,Use of other energy sources for general household use,False
-other_energy_other,categorical,ECV02H01.DTA,Energy Sources.,Use of other energy sources for other unspecified purposes,False
 propane_gas_cooking,categorical,ECV02H01.DTA,Energy Sources.,Use of propane gas for cooking purposes,False
 propane_gas_home_business,categorical,ECV02H01.DTA,Energy Sources.,Use of propane gas for home-based business activities,False
 propane_gas_household,categorical,ECV02H01.DTA,Energy Sources.,Use of propane gas for general household use,False
-propane_gas_other,categorical,ECV02H01.DTA,Energy Sources.,Use of propane gas for other unspecified purposes,False
 num_animal_drawn_equipment,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of animal-drawn tools and implements,False
 num_tractor,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of tractors owned,False
 num_tractor_equipment,numeric,ECV28A16.DTA,Agricultural equipment and facilities,Number of tractor-specific attachments and implements,False
